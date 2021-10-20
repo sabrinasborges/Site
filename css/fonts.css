@@ -1,0 +1,21 @@
+/* @font-face */
+
+@font-face {
+    font-family: "Roboto";
+    src: '../fonts/Roboto/Roboto-Regular.ttf'
+}
+
+@font-face {
+    font-family: 'Signarita Louisse Thin';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Signarita Louisse Thin'), url('../fonts/Signarita/Signarita.ttf') format('woff');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Signarita Louisse Thin'), url('../fonts/Roboto/Roboto-Thin.ttf') format('woff');
+}
+
